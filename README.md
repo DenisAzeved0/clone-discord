@@ -1,44 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+UI Discord - Rocketseat
+</h1>
 
-## Available Scripts
+<p align="center">Projeto criado para fim educacional.</p>
+<p align="center">Para acessar o projeto clique <a href="https://denis-discord.netlify.app/">aqui</a>.</p>
 
-In the project directory, you can run:
 
-### `yarn start`
+<hr>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Participantes
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+| [<img src="https://avatars3.githubusercontent.com/u/21110454?s=460&v=4" width="75px;"/>](https://github.com/DenisAzeved0) |
+| :------------------------------------------------------------------------------------------------------------------------: |
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| [Dênis Azevedo](https://github.com/DenisAzeved0)
 
-### `yarn build`
+## Tecnologias
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] React.js
+- [x] Styled Components
+- [x] TypeScript
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Como rodar (execute via terminal/cmd)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. `npm install` ou `yarn install`.<br />
+2. `yarn start`.<br />
+3. Acesso pelo navegador `http://localhost:3000`.<br />
 
-### `yarn eject`
+## Agradecimentos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="https://rocketseat.com.br/">Rocketseat</a>, obrigado pelo conteúdo disponibilizado!
+<a href="https://github.com/guilhermerodz">Guilherme Rodz</a> da Rocketseat, obrigado pelo <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU">tutorial</a>
